@@ -41,7 +41,7 @@ I'm excited to collaborate, learn, and build the web together. Let's create some
 
 Let's connect and share our knowledge. Feel free to reach out to me through various channels:
 
-<a href="yha232008@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Youssef%20Elkomy-0077B5?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="mailto:contact@yha232008@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Youssef%20Elkomy-0077B5?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/youssef-elkomy-8aab11258/" target="_blank"><img src="https://img.shields.io/badge/-Youssef%20Elkomy-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="background-color: 'black'"/></a>
 
 I'm always open to discussions, collaborations, and making new friends in the tech community.
