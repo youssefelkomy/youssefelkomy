@@ -7,42 +7,47 @@
 
 # 👋 Hello, I'm Youssef Elkomy!
 
-I'm a passionate Front-End Developer with a love for crafting exceptional web experiences. My journey in the world of web development is an ongoing adventure filled with curiosity, creativity, and a thirst for knowledge.
+I'm a passionate **Back-End Developer** with a focus on building robust, scalable, and secure systems. I combine strong technical skills with curiosity and a continuous drive to learn — and yes, I proudly use AI tools to boost my productivity and sharpen my work!
 
 ## 🚀 What I Do
 
+- **Back-End Development:**  
+  I specialize in architecting scalable and maintainable systems using **Node.js**, **TypeScript**, and **Next.js**. I have deep experience in designing RESTful APIs, handling databases like **MongoDB**, and integrating cloud services.
 
-- **Front-End Development :** I specialize in creating stunning user interfaces and interactive web applications. HTML, CSS, and JavaScript are my playground, and I'm proficient in modern front-end frameworks like React and Vue.js. I'm experienced in designing responsive and accessible websites.
+- **Database Design & Optimization:**  
+  I work confidently with databases, ensuring data is well-structured, secure, and optimized for performance. Whether relational or NoSQL, I aim for efficiency and reliability.
 
-- **Problem Solving :** I enjoy the process of solving complex problems with elegant solutions. Debugging, optimizing code, and building user-friendly interfaces are all part of the fun! I also have experience in performance optimization and ensuring web applications are fast and efficient.
+- **Security Focus:**  
+  I care deeply about application security — from authentication and authorization to protecting against common vulnerabilities.
 
-- **Version Control :** I'm well-versed in version control systems like Git and GitHub. I use them for collaborative development, tracking changes, and managing code repositories.
+- **AI-Assisted Development:**  
+  I embrace AI as a powerful assistant, helping me write, debug, and optimize code faster. I see it not as a shortcut but as a way to deliver higher-quality solutions.
 
-- **Continuous Learning :** The tech world is ever-evolving, and I'm committed to lifelong learning. I stay up-to-date with the latest web development trends, attend webinars, and participate in online coding challenges.
+- **Problem Solving:**  
+  I thrive on solving complex technical challenges and finding clean, elegant solutions. Optimizing code, improving performance, and enhancing user experiences are part of my daily routine.
 
 ## ☕ Fun Fact
 
-I'm not just a coder; I'm a coffee enthusiast! A perfect day for me always starts with the aroma of freshly brewed coffee. It's my secret fuel for creativity and productivity.
-
+I don’t just code — I **build systems with heart**. For me, every project is a chance to create something meaningful, whether for learning, helping others, or pushing the limits of my skills.
 
 ## 💻 Tech Stack
 
-Here are some of the technologies I work with :
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
+Here’s a glimpse of the technologies I work with:
+![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript)&nbsp;
+![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
+![Next.js](https://img.shields.io/badge/-Next.js-05122A?style=flat&logo=next.js)&nbsp;
+![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+![Visual Studio Code](https://img.shields.io/badge/-VS%20Code-05122A?style=flat&logo=visual-studio-code)&nbsp;
 
-I'm excited to collaborate, learn, and build the web together. Let's create something amazing!
+I’m always learning and adapting to new tools and technologies to stay ahead in the fast-moving tech world.
 
 ## 🌍 Connect with Me
 
-Let's connect and share our knowledge. Feel free to reach out to me through various channels :
+Let’s connect and collaborate on awesome projects!
 
 <a href="mailto:contact@yha232008@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Youssef%20Elkomy-0077B5?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/youssef-elkomy-8aab11258/" target="_blank"><img src="https://img.shields.io/badge/-Youssef%20Elkomy-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="background-color: 'black'"/></a>
+<a href="https://www.linkedin.com/in/youssef-elkomy-8aab11258/" target="_blank"><img src="https://img.shields.io/badge/-Youssef%20Elkomy-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 
-I'm always open to discussions, collaborations, and making new friends in the tech community.
-
+I'm always open to meaningful conversations, collaborations, and knowledge-sharing in the tech community.
