@@ -11,8 +11,7 @@ I'm a passionate **SOFTWARE EGNINEER** with a focus on building robust, scalable
 
 ## 🚀 What I Do
 
-- **SOFTWARE ENGINEER**
-- 
+### **SOFTWARE ENGINEER**
 
 - **Database Design & Optimization:**  
   I work confidently with databases, ensuring data is well-structured, secure, and optimized for performance. Whether relational or NoSQL, I aim for efficiency and reliability.
@@ -44,6 +43,8 @@ Here’s a glimpse of the technologies I work with:
 ![Gin](https://img.shields.io/badge/-Gin-05122A?style=flat&logo=go&logoColor=007D9C)&nbsp;
 ![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=c%2B%2B&logoColor=00599C)&nbsp;
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql)&nbsp;
+![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql)&nbsp;
+![Redis](https://img.shields.io/badge/-Redis-05122A?style=flat&logo=redis)&nbsp;
 
 I’m always learning and adapting to new tools and technologies to stay ahead in the fast-moving tech world.
 
