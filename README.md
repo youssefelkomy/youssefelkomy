@@ -53,6 +53,6 @@ I’m always learning and adapting to new tools and technologies to stay ahead i
 Let’s connect and collaborate on awesome projects!
 
 <a href="mailto:contact@yha232008@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Youssef%20Elkomy-0077B5?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/youssef-elkomy-8aab11258/" target="_blank"><img src="https://img.shields.io/badge/-Youssef%20Elkomy-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/youssef-elkomy-5a3215374/" target="_blank"><img src="https://img.shields.io/badge/-Youssef%20Elkomy-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 
 I'm always open to meaningful conversations, collaborations, and knowledge-sharing in the tech community.
