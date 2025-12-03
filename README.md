@@ -1,58 +1,59 @@
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Software%20Engineer;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Software+Engineer;Building+Scalable+Backends;Python+%26+Go+Enthusiast;Full+Stack+Developer&font=Fira+Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
 </p>
 
 <img width="250" align="right" src="https://c.tenor.com/_DOBjnGspYAAAAAM/code-coding.gif">
 
 # 👋 Hello, I'm Youssef Elkomy!
 
-I'm a passionate **SOFTWARE EGNINEER** with a focus on building robust, scalable, and secure systems. I combine strong technical skills with curiosity and a continuous drive to learn — and yes, I proudly use AI tools to boost my productivity and sharpen my work!
+I am a **Software Engineer** focused on backend architecture and modern web standards. 
 
-## 🚀 What I Do
+I don't just write code that "works" — I aim to build systems that are maintainable and scalable. While I'm early in my career, I challenge myself by implementing advanced patterns like **Domain-Driven Design (DDD)**, **Clean Architecture**, and **Microservices** rather than sticking to basic tutorials.
 
-### **SOFTWARE ENGINEER**
+## What I Actually Do
 
-- **Database Design & Optimization:**  
-  I work confidently with databases, ensuring data is well-structured, secure, and optimized for performance. Whether relational or NoSQL, I aim for efficiency and reliability.
+Instead of listing generic skills, here is how I approach development:
 
-- **Security Focus:**  
-  I care deeply about application security — from authentication and authorization to protecting against common vulnerabilities.
+- **Architecture First:** I structure my Python (FastAPI) and Go projects to be modular. I separate business logic from infrastructure, making my code easy to test and upgrade.
+- **Database Power:** I don't treat databases like simple storage buckets. I work with **PostgreSQL** (optimizing indexes, using JSONB) and **Redis** for caching and session management.
+- **Modern Frontend:** When I touch the frontend, I use **Next.js** and **TypeScript** to build responsive, type-safe interfaces that connect seamlessly to my backends.
 
-- **Problem Solving:**  
-  I thrive on solving complex technical challenges and finding clean, elegant solutions. Optimizing code, improving performance, and enhancing user experiences are part of my daily routine.
+## Current Focus
 
-## ☕ Fun Fact
+I am currently diving deep into:
+- **Asynchronous Systems:** Handling real-time data with WebSockets and message queues.
+- **DevOps Basics:** Dockerizing my applications and setting up CI/CD pipelines.
 
-I don’t just code — I **build systems with heart**. For me, every project is a chance to create something meaningful, whether for learning, helping others, or pushing the limits of my skills.
+## Tech Stack
 
-## 💻 Tech Stack
-
-Here’s a glimpse of the technologies I work with:
-![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript)&nbsp;
-![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
-![Next.js](https://img.shields.io/badge/-Next.js-05122A?style=flat&logo=next.js)&nbsp;
-![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb)&nbsp;
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/-VS%20Code-05122A?style=flat&logo=visual-studio-code)&nbsp;
-![Go](https://img.shields.io/badge/-Go-05122A?style=flat&logo=go)&nbsp;
+### **Languages**
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
+![Go](https://img.shields.io/badge/-Go-05122A?style=flat&logo=go)&nbsp;
+![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript)&nbsp;
+![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=c%2B%2B&logoColor=00599C)&nbsp;
+
+### **Backend & Frameworks**
 ![FastAPI](https://img.shields.io/badge/-FastAPI-05122A?style=flat&logo=fastapi&logoColor=00EEAA)&nbsp;
 ![Django](https://img.shields.io/badge/-Django-05122A?style=flat&logo=django)&nbsp;
+![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
 ![Gin](https://img.shields.io/badge/-Gin-05122A?style=flat&logo=go&logoColor=007D9C)&nbsp;
-![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=c%2B%2B&logoColor=00599C)&nbsp;
+
+### **Frontend**
+![Next.js](https://img.shields.io/badge/-Next.js-05122A?style=flat&logo=next.js)&nbsp;
+![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
+![Tailwind](https://img.shields.io/badge/-Tailwind-05122A?style=flat&logo=tailwindcss)&nbsp;
+
+### **Database & Infrastructure**
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql)&nbsp;
-![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql)&nbsp;
+![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb)&nbsp;
 ![Redis](https://img.shields.io/badge/-Redis-05122A?style=flat&logo=redis)&nbsp;
+![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker)&nbsp;
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 
-I’m always learning and adapting to new tools and technologies to stay ahead in the fast-moving tech world.
+## Connect with Me
 
-## 🌍 Connect with Me
+I'm currently open to junior roles where I can contribute to backend engineering or full-stack web products.
 
-Let’s connect and collaborate on awesome projects!
-
-<a href="mailto:contact@yha232008@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Youssef%20Elkomy-0077B5?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/youssef-elkomy-5a3215374/" target="_blank"><img src="https://img.shields.io/badge/-Youssef%20Elkomy-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-
-I'm always open to meaningful conversations, collaborations, and knowledge-sharing in the tech community.
+<a href="mailto:contact@yha232008@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Email%20Me-0077B5?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/youssef-elkomy-5a3215374/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
