@@ -1,6 +1,6 @@
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Software+Engineer;Building+Scalable+Backends;Python+%26+Go+Enthusiast;Full+Stack+Developer&font=Fira+Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Software+Engineer;Building+Scalable+Backends;Python+%26+Node.js+Enthusiast;Full+Stack+Developer&font=Fira+Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
 </p>
 
 <img width="250" align="right" src="https://c.tenor.com/_DOBjnGspYAAAAAM/code-coding.gif">
@@ -11,32 +11,35 @@ I am a **Software Engineer** focused on backend architecture and modern web stan
 
 I don't just write code that "works" — I aim to build systems that are maintainable and scalable. While I'm early in my career, I challenge myself by implementing advanced patterns like **Domain-Driven Design (DDD)**, **Clean Architecture**, and **Microservices** rather than sticking to basic tutorials.
 
-## What I Actually Do
+## 🛠 What I Actually Do
 
 Instead of listing generic skills, here is how I approach development:
 
-- **Architecture First:** I structure my Python (FastAPI) and Go projects to be modular. I separate business logic from infrastructure, making my code easy to test and upgrade.
+- **Architecture First:** I structure my projects to be modular and testable. I separate business logic from infrastructure, ensuring my code can grow without becoming "spaghetti code."
+- **Node.js Ecosystem:** I understand the right tool for the job. I use **Express.js** when I need flexibility and raw middleware control, but I specialize in **NestJS** for scalable applications. I leverage Nest's **Dependency Injection**, **Modules**, and **Guards** to enforce the same strict architectural standards I apply in other languages.
 - **Database Power:** I don't treat databases like simple storage buckets. I work with **PostgreSQL** (optimizing indexes, using JSONB) and **Redis** for caching and session management.
 - **Modern Frontend:** When I touch the frontend, I use **Next.js** and **TypeScript** to build responsive, type-safe interfaces that connect seamlessly to my backends.
 
-## Current Focus
+## 🔭 Current Focus
 
 I am currently diving deep into:
 - **Asynchronous Systems:** Handling real-time data with WebSockets and message queues.
 - **DevOps Basics:** Dockerizing my applications and setting up CI/CD pipelines.
 
-## Tech Stack
+## 💻 Tech Stack
 
 ### **Languages**
+![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript)&nbsp;
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![Go](https://img.shields.io/badge/-Go-05122A?style=flat&logo=go)&nbsp;
-![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript)&nbsp;
 ![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=c%2B%2B&logoColor=00599C)&nbsp;
 
 ### **Backend & Frameworks**
+![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
+![NestJS](https://img.shields.io/badge/-NestJS-05122A?style=flat&logo=nestjs&logoColor=E0234E)&nbsp;
+![Express.js](https://img.shields.io/badge/-Express.js-05122A?style=flat&logo=express&logoColor=white)&nbsp;
 ![FastAPI](https://img.shields.io/badge/-FastAPI-05122A?style=flat&logo=fastapi&logoColor=00EEAA)&nbsp;
 ![Django](https://img.shields.io/badge/-Django-05122A?style=flat&logo=django)&nbsp;
-![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
 ![Gin](https://img.shields.io/badge/-Gin-05122A?style=flat&logo=go&logoColor=007D9C)&nbsp;
 
 ### **Frontend**
@@ -51,7 +54,7 @@ I am currently diving deep into:
 ![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 
-## Connect with Me
+## 🌍 Connect with Me
 
 I'm currently open to junior roles where I can contribute to backend engineering or full-stack web products.
 
