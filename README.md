@@ -1,50 +1,51 @@
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Software+Engineer;Building+Scalable+Backends;Python+%26+Node.js+Enthusiast;Full+Stack+Developer&font=Fira+Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Software+Engineer;Backend+%26+System+Design;Java+%7C+Python+%7C+Go;Building+What+Matters&font=Fira+Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
 </p>
 
 <img width="250" align="right" src="https://c.tenor.com/_DOBjnGspYAAAAAM/code-coding.gif">
 
 # 👋 Hello, I'm Youssef Elkomy!
 
-I am a **Software Engineer** focused on backend architecture and modern web standards. 
+I'm a **Software Engineer** who builds backend systems that are meant to last — not just pass a demo.
 
-I don't just write code that "works" — I aim to build systems that are maintainable and scalable. While I'm early in my career, I challenge myself by implementing advanced patterns like **Domain-Driven Design (DDD)**, **Clean Architecture**, and **Microservices** rather than sticking to basic tutorials.
+I work across different stacks depending on what the problem actually needs: **Spring Boot** for enterprise-grade systems and SaaS platforms, **FastAPI** for MVPs, AI-powered services, and analytics backends, and **Next.js** with a modern React toolchain for the frontend layer.
+
+I don't follow one framework religiously. I pick the architecture that fits the scale: **Modular Monolith + Hexagonal Architecture** for large systems that need strict boundaries, **Modular Monolith + MVC** for mid-sized projects that might need to scale, and plain **MVC** for smaller apps where simplicity wins.
 
 ## 🛠 What I Actually Do
 
-Instead of listing generic skills, here is how I approach development:
-
-- **Architecture First:** I structure my projects to be modular and testable. I separate business logic from infrastructure, ensuring my code can grow without becoming "spaghetti code."
-- **Node.js Ecosystem:** I understand the right tool for the job. I use **Express.js** when I need flexibility and raw middleware control, but I specialize in **NestJS** for scalable applications. I leverage Nest's **Dependency Injection**, **Modules**, and **Guards** to enforce the same strict architectural standards I apply in other languages.
-- **Database Power:** I don't treat databases like simple storage buckets. I work with **PostgreSQL** (optimizing indexes, using JSONB) and **Redis** for caching and session management.
-- **Modern Frontend:** When I touch the frontend, I use **Next.js** and **TypeScript** to build responsive, type-safe interfaces that connect seamlessly to my backends.
+- **Architecture by Scale:** I don't force patterns where they don't belong. Large projects get hexagonal architecture with clear domain boundaries. Medium projects get a modular monolith with MVC internals. Small projects stay lean with straightforward MVC — no over-engineering.
+- **Java & Spring Boot:** My go-to for production systems. Dependency injection, layered services, transactional integrity — the kind of backend that enterprises and SaaS products actually run on.
+- **Python & FastAPI:** When speed-to-market matters. I use FastAPI to ship MVPs, build AI application backends, and stand up analytics services quickly without sacrificing code quality.
+- **Database Design:** I work with **PostgreSQL** as a proper relational database — schema design, query optimization, constraints, and transactions first. JSONB is there when semi-structured data genuinely calls for it, not as a default. **Redis** handles caching and session management.
+- **Frontend:** I build with **Next.js**, **React**, and **TypeScript**. I use **TanStack Query** for server state management and **Tailwind CSS** for styling — keeping the frontend type-safe and tightly connected to the backend APIs.
 
 ## 🔭 Current Focus
 
-I am currently diving deep into:
-- **Asynchronous Systems:** Handling real-time data with WebSockets and message queues.
-- **DevOps Basics:** Dockerizing my applications and setting up CI/CD pipelines.
+- **Asynchronous Systems:** Real-time data handling with WebSockets and message queues.
+- **DevOps:** Dockerizing applications and building CI/CD pipelines.
 
 ## 💻 Tech Stack
 
 ### **Languages**
+![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=openjdk&logoColor=ED8B00)&nbsp;
 ![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript)&nbsp;
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![Go](https://img.shields.io/badge/-Go-05122A?style=flat&logo=go)&nbsp;
 ![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=c%2B%2B&logoColor=00599C)&nbsp;
 
 ### **Backend & Frameworks**
-![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
-![NestJS](https://img.shields.io/badge/-NestJS-05122A?style=flat&logo=nestjs&logoColor=E0234E)&nbsp;
-![Express.js](https://img.shields.io/badge/-Express.js-05122A?style=flat&logo=express&logoColor=white)&nbsp;
+![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-05122A?style=flat&logo=springboot&logoColor=6DB33F)&nbsp;
 ![FastAPI](https://img.shields.io/badge/-FastAPI-05122A?style=flat&logo=fastapi&logoColor=00EEAA)&nbsp;
-![Django](https://img.shields.io/badge/-Django-05122A?style=flat&logo=django)&nbsp;
 ![Gin](https://img.shields.io/badge/-Gin-05122A?style=flat&logo=go&logoColor=007D9C)&nbsp;
+![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
+![Express.js](https://img.shields.io/badge/-Express.js-05122A?style=flat&logo=express&logoColor=white)&nbsp;
 
 ### **Frontend**
 ![Next.js](https://img.shields.io/badge/-Next.js-05122A?style=flat&logo=next.js)&nbsp;
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
+![TanStack Query](https://img.shields.io/badge/-TanStack%20Query-05122A?style=flat&logo=reactquery&logoColor=FF4154)&nbsp;
 ![Tailwind](https://img.shields.io/badge/-Tailwind-05122A?style=flat&logo=tailwindcss)&nbsp;
 
 ### **Database & Infrastructure**
@@ -58,5 +59,5 @@ I am currently diving deep into:
 
 I'm currently open to junior roles where I can contribute to backend engineering or full-stack web products.
 
-<a href="mailto:contact@yha232008@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Email%20Me-0077B5?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="mailto:yha232008@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Email%20Me-0077B5?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/youssef-elkomy-5a3215374/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
